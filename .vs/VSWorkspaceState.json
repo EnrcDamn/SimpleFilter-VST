@@ -5,6 +5,6 @@
     "\\Builds\\VisualStudio2022",
     "\\Source"
   ],
-  "SelectedNode": "\\SimpleEQ.jucer",
-  "PreviewInSolutionExplorer": true
+  "SelectedNode": "\\Source\\PluginProcessor.h",
+  "PreviewInSolutionExplorer": false
 }
